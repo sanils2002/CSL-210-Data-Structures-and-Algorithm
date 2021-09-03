@@ -5,6 +5,7 @@
 
 int main() {
    
+   system("CLS");
 
    insert(1, 20);
    insert(2, 70);
